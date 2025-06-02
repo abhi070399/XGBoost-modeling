@@ -59,7 +59,7 @@ python test/test_model.py
 
 If you use this code in your research, please cite it as:
 
-Maurya, A. (2025). XGBoost Modeling for Groundwater Prediction. GitHub. https://github.com/abhi070399/XGBoost-modeling
+Maurya, A., & Chakrapani, G. J. (2025) (2025). XGBoost Modeling for Groundwater Prediction. GitHub. https://github.com/abhi070399/XGBoost-modeling
 
 
 ## Contact
