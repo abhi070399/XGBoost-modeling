@@ -60,7 +60,7 @@ python test/test_model.py
 If you use this code in your research, please cite it as:
 
 Maurya, A., & Chakrapani, G. J. (2026). Decoding Urban Groundwater Trends in India: Climatic Insights and XGBoost-Based Modeling. Applied Computing and Geosciences, 100343.
-
+https://doi.org/10.1016/j.acags.2026.100343
 
 ## Contact
 
